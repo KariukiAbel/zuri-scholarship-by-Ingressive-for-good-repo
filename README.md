@@ -1,0 +1,1 @@
+# zuri-scholarship-by-Ingressive-for-good-repo
