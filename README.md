@@ -8,6 +8,7 @@ In this readme.md file I will be documenting the progress of this scholarship an
 Things you'll need:
 
 * [python](https://python.org)
+* [html](https://developer.mozila.com)
 <!-- * [markdown-it](https://www.npmjs.com/package/markdown-it)
 * [tasks.json](/docs/editor/tasks) -->
 
@@ -19,5 +20,35 @@ Currently there are two folders
 
 Here all related html files are kept here. So far I have:
 
+## i. design.html file
+
+Here I was designing a page based on a picture given
+
+## ii. table.html
+
+Introduction to html tables and related tags
+
+## iii. tribute.html
+
+An assignment to make a tribute as a webpage based on someone you lookup to.
+
+
+### 2. python files folder
+
+## i. Classes-and-Objects folder 
+
+Contains main.py file that is a simple python file for introduction to Object Oriented Programming
+
+## ii. addition.py
+
+Simple addition in python
+
+## iii. cli_clac.py
+
+A simple CLI calculator in python that performs addition, multiplication, division and subtraction
+
+## iv. counting_words.py
+
+Python script to get the number of words in a given input
 
 > This block quote is here for your information.
