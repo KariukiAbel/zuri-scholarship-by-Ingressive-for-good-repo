@@ -8,7 +8,7 @@ In this readme.md file I will be documenting the progress of this scholarship an
 Things you'll need:
 
 * [python](https://python.org)
-* [html](https://developer.mozila.com)
+* [html](https://developer.mozilla.com)
 <!-- * [markdown-it](https://www.npmjs.com/package/markdown-it)
 * [tasks.json](/docs/editor/tasks) -->
 
